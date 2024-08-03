@@ -1,0 +1,1 @@
+Explicación principal del programa
